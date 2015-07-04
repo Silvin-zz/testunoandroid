@@ -12,7 +12,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Aparece"
+        android:text="@string/msg_aparece"
         android:id="@+id/button"
         android:layout_below="@+id/textView"
         android:layout_alignParentLeft="true"
@@ -23,7 +23,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Desaparece"
+        android:text="@string/msg_desaparece"
         android:id="@+id/button2"
         android:layout_centerVertical="true"
         android:layout_alignParentLeft="true"

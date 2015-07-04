@@ -3,4 +3,7 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="msg_aparece">Aparece</string>
+    <string name="msg_desaparece">Ocultate</string>
+
 </resources>
